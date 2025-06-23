@@ -1,4 +1,4 @@
-# Victor Gabriel — Developer Portfolio
+# 👋 Victor Gabriel — Developer Portfolio
 
 🌍 **About Me**  
 Hi! I'm Victor Gabriel, a passionate developer focused on game development and web apps.  
@@ -6,7 +6,7 @@ Currently pursuing a Computer Science degree, I turn creative ideas into engagin
 
 🎮 Building 2D/3D games with Unity & C#  
 💻 Developing responsive web apps with HTML, CSS, JavaScript, and backend tech  
-🧠 Focus on clean code, UI/UX, and problem solving  
+🧠 Focus on clean code, UI/UX, and problem solving
 
 ---
 
@@ -15,14 +15,14 @@ Currently pursuing a Computer Science degree, I turn creative ideas into engagin
 **Front-end:** HTML5, CSS3, JavaScript, React  
 **Back-end:** Node.js, MongoDB, MySQL  
 **Game Dev:** Unity, C#, Godot  
-**Tools:** Git, GitHub, Figma, Photoshop, Midjourney, DALL·E, Trello  
+**Tools:** Git, GitHub, Figma, Photoshop, Midjourney, DALL·E, Trello
 
 ---
 
 ### 📂 Featured Projects
 
 - 🎮 **The Last Twilight:** 2D Metroidvania game with emotional storytelling and puzzles (Unity)  
-- 💼 **Portfolio Website:** Responsive personal portfolio (HTML, CSS, JS)  
+- 💼 **Portfolio Website:** Responsive personal portfolio (HTML, CSS, JS)
 
 ---
 
@@ -30,7 +30,7 @@ Currently pursuing a Computer Science degree, I turn creative ideas into engagin
 
 - Software Requirements Analysis (Certified)  
 - Technology and Society (Certified)  
-- Computer Science (In Progress)  
+- Computer Science (In Progress)
 
 ---
 
@@ -38,12 +38,12 @@ Currently pursuing a Computer Science degree, I turn creative ideas into engagin
 
 - Build a standout portfolio  
 - Join freelance or team projects  
-- Secure my first professional tech role  
+- Secure my first professional tech role
 
 ---
 
 ### 📫 Contact
 
-- Email: victorgabriel.br.3012@gmail.com  
-- LinkedIn: [linkedin.com/in/victor-gabriel-80942a36b](https://www.linkedin.com/in/victor-gabriel-80942a36b)  
-- Portfolio: (coming soon)  
+- 📧 Email: victorgabriel.br.3012@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/victor-gabriel-80942a36b](https://www.linkedin.com/in/victor-gabriel-80942a36b)  
+- 🌐 Portfolio: [Coming soon](#)
